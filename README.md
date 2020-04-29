@@ -1,2 +1,4 @@
 # sandbox
-Bootstrap snippets
+
+## Boostrap snippets
+This repository for practice Template samples.
