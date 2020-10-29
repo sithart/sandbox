@@ -2,6 +2,11 @@
 *{
     font-family: 'Grandstander', cursive;
 }
+body{
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
 header{
     background-image:linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.9)),url('assets/img/lg.jpg') ;
     height: 100vh;
